@@ -2,7 +2,7 @@
 # out the current state.
 def display_board
   2.times {puts "   |   |   "
-  puts -----------}
+  puts "-----------"}
 end
 
 display_board
